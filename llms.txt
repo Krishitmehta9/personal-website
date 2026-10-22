@@ -1,0 +1,26 @@
+# Krishit Mehta
+
+> London based data scientist finishing an MSc in Data Science at the University of Greenwich (January 2027). Works on uplift modelling, forecasting and computer vision with Python and SQL. Open to graduate data scientist and data analyst roles, internships and freelance work in the UK and Europe. Currently on a UK Student visa; full time roles need sponsorship. Available full time from February 2027.
+
+## Contact
+- Email: krishitajbani@gmail.com
+- LinkedIn: https://www.linkedin.com/in/krishitmehta/
+- GitHub: https://github.com/krishitmehta
+- CV: https://krishitmehta.me/Krishit_Mehta_CV.pdf
+
+## Projects
+- Customer churn uplift model: X learner CATE model targeting retention offers by incremental impact. £190,761 net value (3.8x ROI) on a £50,000 budget, 21% more than churn risk targeting (£148,601, 3.0x). Qini evaluation and Streamlit policy simulator.
+- TfL rail energy demand forecast: two year forecast of TfL rail electricity from TfL, GLA and Met Office open data. R² 0.93, MAPE 3.6%, ±4 GWh. Converts forecasts to cost and CO₂.
+- Road traffic congestion classifier: CNN plus YOLOv8 pipeline on road camera imagery, accuracy improved 14% through augmentation and preprocessing.
+- Retail demand forecasting and ANPR number plate recognition.
+
+## Experience
+- Data Science Research Intern, Computer Vision, CSRTC (Jan to May 2025)
+- Web Developer Intern, Codice Technology (May to Jul 2024)
+
+## Education
+- MSc Data Science, University of Greenwich (2026 to 2027)
+- BTech Computer Engineering, Charotar University of Science and Technology (2021 to 2025), GPA 3.6/4.0
+
+## Current research
+- Using large language models to score survey responses and generate synthetic ones, and measuring where they diverge from real answers.
